@@ -1,13 +1,13 @@
 # Nord-Fox
 Custom firefox startpage
 
-![](/screenshots/Capture.png)
+![](/screenshots/Capture.PNG)
 
 ## Set as Home Page
 
 Go to settings, search for `Home`. Then in the drop down list for `Homepage and new windows` select `Custom URLs` and copy the location of `index.html` file.
 
-![](/screenshots/Capture.png)
+![](/screenshots/Capture.PNG)
 
 ## Set as New Tab Page
 
